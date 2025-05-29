@@ -271,4 +271,4 @@ For any inquiries or feedback, please reach out to [Rishi Akkala](rishiakkala6@g
   <img src="https://img.icons8.com/color/48/000000/table.png" alt="Table Icon" /> 
 <!--   <img src="https://img.icons8.com/color/48/000000/summarize.png" alt="Summarization Icon" /> -->
 </div>
-![Preview](https://i.imgur.com/yourImageId.png)
+
