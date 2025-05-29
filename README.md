@@ -263,6 +263,8 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, please reach out to [Rishi Akkala](rishiakkala6@gmail.com).
 
 ---
+![Preview](https://i.imgur.com/yourImageId.png)
+
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/pdf-2.png" alt="PDF Icon" /> 
